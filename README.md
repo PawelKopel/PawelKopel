@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### Private GitHub: [PKopel](https://github.com/PKopel)
 <!--
 **PawelKopel/PawelKopel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
